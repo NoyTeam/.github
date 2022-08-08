@@ -1,6 +1,6 @@
 # Welcome
 
-### 👋 Hi there, NoyNetWork NPO
+### 👋 Hi there, NoyNetWork
 
 - NoyAcg: [noy.asia](https://noy.asia)
 
