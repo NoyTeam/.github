@@ -2,13 +2,10 @@
 
 ### 👋 Hi there, NoyNetWork
 
-- NoyAcg: [noy.asia](https://noy.asia)
-
-### 🌈 About US
-
-We are not open source org, this org is only used to store private repo
+NoyAcg's operating and development entities.
 
 ### 🙋‍♀️ How to contact US
 
 - Twitter: [@noysupport](https://twitter.com/noysupport)
 - Telegram: [@noyacg](https://t.me/noyacg)
+- Email: noyteam@outlook.com
