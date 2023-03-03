@@ -8,4 +8,4 @@ NoyAcg's operating and development entities.
 
 - Twitter: [@noysupport](https://twitter.com/noysupport)
 - Telegram: [@noyacg](https://t.me/noyacg)
-- Email: noyteam@outlook.com
+- Email: noyacg@outlook.com
